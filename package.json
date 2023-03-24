@@ -1,0 +1,19 @@
+{
+  "name": "@domasin/quickstartpackages",
+  "version": "1.0.0",
+  "description": "a test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domasin/quickstartpackages.git"
+  },
+  "author": "Domenico Masini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/domasin/quickstartpackages/issues"
+  },
+  "homepage": "https://github.com/domasin/quickstartpackages#readme"
+}
